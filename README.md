@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-**surenoobster/surenoobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm CHIRAG CHAWLA</h1>
+<h1 align="center">Hi 👋, I'm CHIRAG CHAWLA</h1>
 <h3 align="center">I am an IIT BHU student working in the AI/ML, development, and blockchain fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surenoobster&label=Profile%20views&color=0e75b6&style=flat" alt="surenoobster" /> </p>
@@ -22,7 +19,7 @@ Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm CHIRAG CH
 
 - 📫 How to reach me **chiragchawla2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1VOS5aIOU-h_RNC71RlxdaREyvaRgNg_b](https://drive.google.com/drive/folders/1VOS5aIOU-h_RNC71RlxdaREyvaRgNg_b)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
