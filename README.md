@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **TrioGoat my startup**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Apache Airflow, LangChain, Hugging Face, MERN Stack (MongoDB, Express.js, React, Node.js), Django, Flask, LlamaIndex, CrewAI, and many more related frameworks and tools!**
+- 🌱 I’m currently working on **Docker, Kubernetes, Apache Airflow, LangChain, Hugging Face, MERN Stack (MongoDB, Express.js, React, Node.js), Django, Flask, LlamaIndex, CrewAI, and many more related frameworks and tools!**
 
-- 👯 I’m looking to collaborate on **RLHF, LLM,Software Dev, Orchestration, MLOps, DevOps**
+- 👯 I’m looking to collaborate on **RLHF, LLM,Software Dev, Orchestration, MLOps, DevOps, AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://surenoobster.github.io/](https://surenoobster.github.io/)
 
