@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **surenoobster/surenoobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm CHIRAG CHAWLA</h1>
@@ -48,4 +48,4 @@ Here are some ideas to get you started:<h1 align="center">Hi 👋, I'm CHIRAG CH
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
