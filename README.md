@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm CHIRAG CHAWLA</h1>
 <h3 align="center">I am an IIT BHU student working in the AI/ML, development, and blockchain fields.</h3>
+<h3 align="center">ML ENTHUSIAST  🚀 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surenoobster&label=Profile%20views&color=0e75b6&style=flat" alt="surenoobster" /> </p>
 
