@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surenoobster" alt="surenoobster" /></a> </p>
 
-- 🔭 I’m currently working on **TrioGoat my startup**
+- 🔭 I’m currently working on **21 Spheres**
 
 - 🌱 I’m currently working on **Docker, Kubernetes, Apache Airflow, LangChain, Hugging Face, MERN Stack (MongoDB, Express.js, React, Node.js), Django, Flask, LlamaIndex, CrewAI, and many more related frameworks and tools!**
 
