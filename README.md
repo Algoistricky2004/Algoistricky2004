@@ -8,18 +8,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surenoobster" alt="surenoobster" /></a> </p>
 
-- 🔭 I’m currently working on **21 Spheres**
+---
 
-- 🌱 I’m currently working on **Docker, Kubernetes, Apache Airflow, LangChain, Hugging Face, MERN Stack (MongoDB, Express.js, React, Node.js), Django, Flask, LlamaIndex, CrewAI, and many more related frameworks and tools!**
+- 🔭 I’m currently working on building **21 Spheres** and conducting research in **Natural Language Processing (NLP), Computer Vision, and Algorithms**.
 
-- 👯 I’m looking to collaborate on **RLHF, LLM,Software Dev, Orchestration, MLOps, DevOps, AI/ML**
+- 🌱 I’m currently exploring **Docker, Kubernetes, Apache Airflow, LangChain, Hugging Face, MERN Stack (MongoDB, Express.js, React, Node.js), Django, Flask, LlamaIndex, CrewAI**, and many other frameworks and tools related to **MLOps, DevOps, and Software Development**.
 
-- 👨‍💻 All of my projects are available at [https://surenoobster.github.io/](https://surenoobster.github.io/)
+- 👯 I’m looking to collaborate on projects involving **Reinforcement Learning with Human Feedback (RLHF), Large Language Models (LLMs), Software Development, Orchestration, MLOps, DevOps, and AI/ML**.
 
-- 💬 Ask me about **ML / AI / Software Dev**
+- 👨‍💻 You can check out all my projects at [https://surenoobster.github.io/](https://surenoobster.github.io/).
 
-- 📫 How to reach me **chiragchawla2021@gmail.com**
+- 💬 Feel free to ask me about **Machine Learning, Artificial Intelligence, Software Development**, or anything related!
 
+- 📫 How to reach me: **chiragchawla2021@gmail.com** 
+
+--- 
+
+Let me know if you'd like any further adjustments!
 
 
 <h3 align="left">Connect with me:</h3>
