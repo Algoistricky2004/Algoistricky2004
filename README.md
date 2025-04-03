@@ -24,8 +24,6 @@
 
 --- 
 
-Let me know if you'd like any further adjustments!
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
