@@ -16,7 +16,6 @@
 
 - 👯 I’m looking to collaborate on projects involving **Reinforcement Learning with Human Feedback (RLHF), Large Language Models (LLMs), Software Development, Orchestration, MLOps, DevOps, and AI/ML**.
 
-- 👨‍💻 You can check out all my projects at [https://surenoobster.github.io/](https://surenoobster.github.io/).
 
 - 💬 Feel free to ask me about **Machine Learning, Artificial Intelligence, Software Development**, or anything related!
 
