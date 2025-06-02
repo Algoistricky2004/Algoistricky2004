@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on building **21 Spheres** and conducting research in **Natural Language Processing (NLP), Computer Vision, and Algorithms**.
+- 🔭 I’m currently working on building Products and conducting research in **Natural Language Processing (NLP), Computer Vision, and Algorithms**.
 
 - 🌱 I’m currently exploring **Docker, Kubernetes, Apache Airflow, LangChain, Hugging Face, MERN Stack (MongoDB, Express.js, React, Node.js), Django, Flask, LlamaIndex, CrewAI**, and many other frameworks and tools related to **MLOps, DevOps, and Software Development**.
 
